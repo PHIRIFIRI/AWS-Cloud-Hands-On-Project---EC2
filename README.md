@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="Screenshot 2026-08-13 185407" src="https://github.com/user-attachments/assets/834c3a46-03bc-4b84-8b72-9a40400cd0bb" />***WELCOME TO AWS CLOUD FOUNDATIONS***
+***WELCOME TO AWS CLOUD FOUNDATIONS***
 
 THIS IS A HANDS ON LAB PRACTICE ON HOW TO UTILIZE AWS CLOUD USING A FREE TIER ACC
 
